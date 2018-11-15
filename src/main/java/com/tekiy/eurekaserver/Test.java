@@ -7,6 +7,6 @@ public class Test {
 
         System.out.println("local");
 
-        System.out.println("remote");
+        System.out.println("remote_new");
     }
 }
