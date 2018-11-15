@@ -8,5 +8,6 @@ public class Test {
         System.out.println("local_new");
 
         System.out.println("remote_new");
+
     }
 }
